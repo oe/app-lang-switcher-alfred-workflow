@@ -1,6 +1,7 @@
 # app lang switcher alfred workflow
 Launch App in selected language, or set as Default language.
 
+![usage demo](assets/usage-demo.gif)
 
 *Credits*: This is a swift clone of [AlfredWorkflow-App-Language-Switcher](https://github.com/mpco/AlfredWorkflow-App-Language-Switcher) by [mpco](https://github.com/mpco). Due to the latest release of macOS 12.3, python2 has been removed, which broke the original workflow. So I reimplemented this workflow in Swift.
 
@@ -17,7 +18,6 @@ Launch App in selected language, or set as Default language.
 [download workflow](https://github.com/oe/app-lang-switcher-alfred-workflow/raw/main/AppLanguageSwitcher.alfredworkflow) then click the downloaded file to install
 
 ## Usage
-![usage demo](assets/usage-demo.gif)
 
 1. choose a app in alfred
 2. press `→` to enter file action menu
